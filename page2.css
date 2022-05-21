@@ -1,0 +1,10 @@
+body
+{
+    background-color: aqua;
+}
+ol
+{
+    display:table;
+    margin:0 auto;
+    font-size: 30;
+}
